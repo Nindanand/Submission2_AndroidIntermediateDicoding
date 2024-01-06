@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">App Story</string>
+    <string name="welcome">Welcome to Story Apps</string>
+    <string name="title_login">Log in to enjoy our features</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="gallery">Galery</string>
+    <string name="camera">Camera</string>
+    <string name="name">Name</string>
+    <string name="upload">Upload</string>
+    <string name="story">Story</string>
+    <string name="message_notehaveaccount">Don\'t have account?</string>
+    <string name="message_haveaccount">Already have account?</string>
+    <string name="register">Register</string>
+    <string name="img_story">Image Story</string>
+    <string name="add_story">Add Story</string>
+    <string name="description">Description</string>
+    <string name="img_login">Image Login</string>
+    <string name="img_reg">Image Register</string>
+    <string name="img_splash">Image Splash Screen</string>
+    <string name="tryagain">Try Again</string>
+    <string name="title_register">Register your account now!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="shareloct">Allow location sharing?</string>
+    <string name="errorpassword">Password must not be less than 8 characters</string>
+</resources>
